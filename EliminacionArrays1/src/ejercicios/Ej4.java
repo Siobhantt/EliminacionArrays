@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ej4 {
-
+//este codigo elemina todos los numero mayores del que se introduzca
 	public static void main(String[] args) {
 		int numUser;
 		int tabla[]= new int [20];
